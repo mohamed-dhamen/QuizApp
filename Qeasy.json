@@ -1,0 +1,31 @@
+[{
+        "1": "whats is python --*",
+        "option": [
+            "language strcutur ",
+            "language de bas nieau",
+            "accepte oop",
+            "no answer"
+        ],
+    "repense": "accepte oop"
+    },
+    {
+        "2": "whats is numpy in python --*  ",
+        "option": [
+            "model",
+            "class",
+            "nothing  ",
+            "no answer"
+        ],
+        "repense":"model"
+    },
+    {
+        "3": "whats we can do with pandas in python --* ",
+        "option": [
+            "data treatment in 2D ",
+            "data treatment in 3D",
+            "nothing",
+            "no answer"
+        ],
+        "repense":"data treatment in 2D "
+    }
+]
